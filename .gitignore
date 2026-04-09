@@ -17,6 +17,8 @@ local.properties
 # External tool builders
 .externalToolBuilders/
 
+# .project tolto tanto nn serve
+.project
 # Locally stored "Eclipse launch configurations"
 *.launch
 
@@ -70,6 +72,7 @@ local.properties
 ### Java ###
 # Compiled class file
 *.class
+*.classpath
 
 # Log file
 *.log
