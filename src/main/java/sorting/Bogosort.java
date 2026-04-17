@@ -19,7 +19,6 @@ public class Bogosort {
 		}
 		return true;
 	}
-	
 	public static List<Integer> bogosort(List<Integer> arr){
 		while(!isSorted(arr)) {
 			Collections.shuffle(arr);
