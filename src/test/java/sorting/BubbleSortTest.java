@@ -1,11 +1,13 @@
 package sorting;
 
+import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import org.junit.jupiter.api.Test;
+
 /*
  * i test cosi con le liste sono uno sbatti copiero questo test per ogni algoritmo 
  */

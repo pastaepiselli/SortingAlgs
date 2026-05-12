@@ -2,6 +2,7 @@ package sorting;
 
 import java.util.Collections;
 import java.util.List;
+
 /*
  * bogosort o stupid sort semplicemente controlla se la lista e sorted
  * se non lo e shuffla tutti gli elementi finche non e sorted, con liste con tanti numeri
@@ -11,6 +12,7 @@ import java.util.List;
  */
 
 public class Bogosort {
+
 	public static boolean isSorted(List<Integer> arr) {
 		for (int i = 1; i < arr.size(); i++) {
 			if (arr.get(i) < arr.get(i - 1)) {
