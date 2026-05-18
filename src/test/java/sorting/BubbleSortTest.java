@@ -1,6 +1,6 @@
 package sorting;
 
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api1.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
